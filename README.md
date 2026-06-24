@@ -135,6 +135,7 @@ Real companies using x402 in production with proven scale and transaction volume
 
 ### High-Volume Production Deployments
 
+- [MetaVision AI Platform](https://metavision.click) - Web3 security & DeFi intelligence on Base. CVE Oracle: 355k+ NVD vulnerabilities ($0.50 USDC), DeFi Arbitrage Signals: live Uniswap V3 vs Aerodrome spread ($0.10 USDC), Combined Security Check: wallet fraud + rug pull + CVE scan. 18 MCP tools. ([Agent Card](https://metavision.click/.well-known/agent.json))
 - [Fleet x402 Microservices](https://fleet-x402-audit.fly.dev) - Two agent-payable AI services on Base: SEO Audit ($0.05 USDC) and Competitive Intel Pack ($0.50 USDC). Instant response, zero auth required, machine-readable JSON. ([Discovery](https://fleet-x402-audit.fly.dev/.well-known/x402-listing))
 - [Arch Tools](https://archtools.dev) - 58 production API tools for AI agents with x402 payments built in. Web scraping, AI generation, crypto data, OCR, browser automation, MCP compatible. Patent-pending agent auth. 15+ chains supported. ([GitHub](https://github.com/Deesmo/Arch-AI-Tools))
 - [PayAPI Market](https://payapi.market) - First marketplace for x402-powered APIs. 10 APIs, 65 endpoints: UK property data, email verification, company enrichment, postcode lookup, currency/crypto rates, screenshots, DNS intelligence, web scraping, IP geolocation, QR codes. $0.001–$0.01 USDC on Base per request. MCP server discovery. ([GitHub](https://github.com/chetparker/x402-marketplace))
